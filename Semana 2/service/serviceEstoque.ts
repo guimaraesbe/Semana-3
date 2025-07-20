@@ -15,3 +15,5 @@ class estoqueService {
         }
     }
 }
+
+export default new estoqueService()
